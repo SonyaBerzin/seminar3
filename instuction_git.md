@@ -63,4 +63,8 @@
 
     git checkout <hash>
 
+Для возврата к основной ветке используем:
+
+    git checkout <master>
+
     
