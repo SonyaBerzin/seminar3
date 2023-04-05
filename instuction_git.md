@@ -102,3 +102,4 @@
 
     git branch -d <branchname>
     
+    где наименование удаляемой ветки <branchname> 
