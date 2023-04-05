@@ -97,3 +97,8 @@
     git checkout <branchname>
     
 ## Удаление веток
+
+Для удаления ветки в Гите используется команда:
+
+    git branch -d <branchname>
+    
