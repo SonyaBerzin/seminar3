@@ -96,3 +96,4 @@
 
     git checkout <branchname>
     
+## Удаление веток
